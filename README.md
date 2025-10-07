@@ -3,6 +3,8 @@ _A text-based homage to Mutable Instruments classics — built for macOS and iTe
 
 So far this is just a proof of concept, the audio quality and abilities need quite a bit of work. 
 
+<img width="826" height="483" alt="Screenshot 2025-10-07 at 4 30 24 PM" src="https://github.com/user-attachments/assets/62f92e4e-86e4-4eee-99bf-c5ba3d15368d" />
+
 ---
 
 ## Overview
