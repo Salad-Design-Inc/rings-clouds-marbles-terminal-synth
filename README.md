@@ -1,7 +1,7 @@
 # 🎛️ Rings × Clouds × Marbles — Terminal Synth
 _A text-based homage to Mutable Instruments classics — built for macOS and iTerm2._
 
-So far this is just a proof of concept, the audio quality and abilities need quite a bit of work. 
+So far this is just a proof of concept, and sounds a bit like if you found a PC running Rings into Clouds in the original Doom game. Bleep, boop, bleep.
 
 <img width="826" height="483" alt="Screenshot 2025-10-07 at 4 30 24 PM" src="https://github.com/user-attachments/assets/62f92e4e-86e4-4eee-99bf-c5ba3d15368d" />
 
